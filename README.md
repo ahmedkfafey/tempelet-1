@@ -1,1 +1,0 @@
-# tempelet-1
